@@ -1,0 +1,20 @@
+##Outlier file for central field
+imagename='outlier1_0'
+imsize=[60,60]
+phasecenter='J2000 17h19m59.60 64d04m36.0'
+mask='box[[30pix,30pix],[70pix,70pix]]'
+#
+imagename='outlier2_0'
+imsize=[60,60]
+phasecenter='J2000 17h20m43.0 64d10m13.0'
+mask='box[[40pix,40pix],[60pix,60pix]]'
+#
+imagename='outlier3_0'
+imsize=[60,60]
+phasecenter='J2000 17h08m02.862 64d04m24.24'
+mask='box[[40pix,40pix],[60pix,60pix]]'
+#
+imagename='outlier4_0'
+imsize=[160,84]
+phasecenter='J2000 17h06m16.380 64d38m09.56'
+mask='box[[10pix,10pix],[74pix,74pix]]'
